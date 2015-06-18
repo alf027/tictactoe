@@ -1,4 +1,9 @@
+header  {
+    text-align: center;
+}
+
 .row div {
+    /*margin: 0 auto;*/
     border: 1px solid black;
     height: 150px;
     font-size: 30px;
