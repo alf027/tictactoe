@@ -1,0 +1,23 @@
+.row div {
+    border: 1px solid black;
+    height: 150px;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.row div i {
+    display: none;
+}
+/*#one {*/
+    /*background: blue*/
+/*}*/
+/*#two {*/
+    /*background-color: red*/
+/*}*/
+/*#three {*/
+    /*background: blue;*/
+/*}*/
+img {
+
+}
